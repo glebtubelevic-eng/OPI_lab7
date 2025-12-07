@@ -1,3 +1,6 @@
-name:gleb
-seondname:tubelevich
-mail:glebtubelevic@gmail.com
+Тубелевич
+Глеб
+Александрович
+исит
+введение в разроботку прогрмного обеспечения
+1 курс,3 группа, 1 подгруппа
